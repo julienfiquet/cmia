@@ -22,6 +22,6 @@ Assurez-vous d'avoir Python 3.10+ installé.
 
 ### 2. Cloner le projet & Installer les dépendances
 ```bash
-git clone [https://github.com/VOTRE_PSEUDO/cmia-blockchain.git](https://github.com/VOTRE_PSEUDO/cmia-blockchain.git)
-cd cmia-blockchain
+git clone [https://github.com/julienfiquet/cmia.git](https://github.com/julienfiquet/cmia.git)
+cd cmia
 pip install -r requirements.txt
