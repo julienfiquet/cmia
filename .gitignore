@@ -1,0 +1,22 @@
+# Systèmes et caches
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+
+# Variables d'environnement (Sécurité)
+.env
+.env.local
+.env.*.local
+
+# Bases de données locales
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Frontend / Compilation (Si intégrés plus tard)
+node_modules/
+.next/
+out/
+dist/
